@@ -1,0 +1,3 @@
+displayName = Terraria portal gun challenge inspired by Wand of Sparking video.
+author = DcBD
+version = 0.1
