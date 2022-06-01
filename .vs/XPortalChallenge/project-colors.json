@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "4451cb0f-49be-41e9-8920-2cd3d87f459e": {
+      "ProjectGuid": "4451cb0f-49be-41e9-8920-2cd3d87f459e",
+      "DisplayName": "XPortalChallenge",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
