@@ -15,7 +15,12 @@
       "ProjectGuid": "4451cb0f-49be-41e9-8920-2cd3d87f459e",
       "DisplayName": "XPortalChallenge",
       "ColorIndex": 1
+    },
+    "cc31a127-939a-4ac0-aa8a-4e38b99f69f2": {
+      "ProjectGuid": "cc31a127-939a-4ac0-aa8a-4e38b99f69f2",
+      "DisplayName": "XPortalChallenge",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
